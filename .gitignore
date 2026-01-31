@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.env
+lead_scoring_rf_model.joblib
+processed_leads.csv
+*.log
